@@ -1,0 +1,18 @@
+body {
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+}
+
+.heading {
+    background-color: rgb(8, 0, 255);
+    padding-top: 0.005px;
+    width: 75%;
+    text-align: center;
+}
+
+.my-nav-bar {
+    position: sticky;
+    top: 0;
+    z-index:99999;
+}
+
